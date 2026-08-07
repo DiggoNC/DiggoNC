@@ -1,9 +1,9 @@
-## Hi there 👋
+### Olá! 👋
 
-<!--
-**DiggoNC/DiggoNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Bem Vindo(a)** ao meu `README.md`
+
+Prazer me chamo Diogo sou estudante de Desenvolvimento de sistemas pelo [SENAI SP](https://www.linkedin.com/company/senaileopoldina/) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
