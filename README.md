@@ -27,8 +27,6 @@ Tenho interesse principalmente nas áreas de Cloud, Data Science e Machine Learn
 - 📝 Engenharia de Requisitos
 - 🔧 Git & GitHub
 - 🖥️ Arquitetura de redes com IoT
-  
----
 
 > 💡 **Sempre aprendendo, praticando e buscando evoluir cada vez mais.**
 
